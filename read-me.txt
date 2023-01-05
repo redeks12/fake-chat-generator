@@ -1,5 +1,9 @@
 Here is some information on how to work on the various components of the project:
 
+
+Typography:
+For typography, we will be making use of inter, helvetica. inter is the default webpage fonts, helvetica is for the chat interfac.
+
 Button:
 The button component is responsible for the appearance and behavior of the buttons on the app. To work on the button component, you will need to update the CSS styles and interactivity of the buttons.
 

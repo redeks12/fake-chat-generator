@@ -1,0 +1,11 @@
+* {
+  --general-font: "inter", sans-serif;
+  --chat-interface-font: Helvetica;
+}
+body {
+  font-family: var(--general-font);
+}
+
+.chat-interface-font {
+  font-family: var(--chat-interface-font);
+}
