@@ -1,0 +1,28 @@
+Here is some information on how to work on the various components of the project:
+
+Button:
+The button component is responsible for the appearance and behavior of the buttons on the app. To work on the button component, you will need to update the CSS styles and interactivity of the buttons.
+
+
+
+General chat bubble width:
+The general chat bubble width component is responsible for determining the width of the chat bubbles in the app. To work on this component, you will need to update the CSS styles for the chat bubbles and adjust the width as needed. we will have 2 major bubble width one for whatsapp, telegram and twitter and the other for instagram and facebook messenger they'll both have a max width of 290px and a min width of 250px, the bubble for whatsapp and co will have a margin of 16px, padding of 10px.
+
+
+
+General chat interface:
+The general chat interface component is responsible for the overall appearance and functionality of the chat interface. To work on this component, you will need to update the layout and styles of the chat interface, as well as add any new features or functionality.
+
+
+
+Landing page layout component:
+The landing page layout component is responsible for the layout and appearance of the landing page. To work on this component, The landing page layout component has one general container housing the two sub containers, then the two sub containers each contain an illustration and description, the description container has tittle, description and button (button used from the button components) For the features and how it works section, they both have the same layout and appearance a component can be built for them too with that, we should be done with the landing page and it's components. you will need to update the layout and styles of the landing page, as well as add any new content or features.
+
+
+
+Interface card component:
+The interface card component is responsible for the appearance and behavior of the cards on the app. To work on this component, the interface card compnent will have a thumbnail, a title, a little center img (social icon), description and button you will need to update the CSS styles and interactivity of the cards.
+
+
+
+We hope this information is helpful as you begin working on the Fake Chat Generator project. If you have any questions or need further assistance, don't hesitate to reach out to the project team. We are here to help and support you every step of the way.
